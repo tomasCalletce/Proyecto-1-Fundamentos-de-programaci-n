@@ -1,0 +1,5 @@
+2020,tesla,1000,verde
+1999,toyota,1,rojo
+2005,mazda,50,gris
+2010,jeep,10,azul
+2015,modelo3,1111,rojo
